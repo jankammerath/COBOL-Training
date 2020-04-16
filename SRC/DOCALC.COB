@@ -15,6 +15,6 @@
            DISPLAY UserPrompt
            ACCEPT FirstNum
            ACCEPT SecondNum
-           COMPUTE CalcResult = FirstNum + SecondNum
+           COMPUTE CalcResult = FirstNum + SecondNum + 10
            DISPLAY "Result is = ", CalcResult
            STOP RUN.
